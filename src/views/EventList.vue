@@ -8,6 +8,8 @@
 <script>
 // @ is an alias to /src
 import EventCard from '@/components/EventCard.vue'
+// Not great to be importing axios into every component that needs it (i.e Single Event will also need this data)
+// Better to create a **SERVICE** for this :) 
 import axios from 'axios'
 
 export default {
