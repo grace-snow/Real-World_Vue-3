@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Server
+
+[My JSON server](https://my-json-server.typicode.com/grace-snow/Real-World_Vue-3)
